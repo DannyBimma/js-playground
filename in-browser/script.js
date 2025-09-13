@@ -1,7 +1,6 @@
-// JavaScript Playground - Test Script
-// This alert confirms that the HTML and JS files are properly connected
-
+// JavaScript.info task: Create a page that shows an alert in an
+// external script.
+//
 alert("Hello, World! I am JavaScript!!");
 
-console.log("JavaScript Playground initialized successfully!");
-
+console.log("Playground initialised successfully, bitch!");
