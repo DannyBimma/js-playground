@@ -12,8 +12,8 @@ if (day === "Monday") {
   console.log("That's a relatively worse day.");
 } else if (day === "Friday") {
   console.log("That's the right day.");
-} else if (day === "Saturday") {
+} else if (day === "Saturday" || day === "Sunday") {
   console.log("That's an even better day");
 } else {
-  console.log("That's a fun mother-fucking day.");
+  console.log("That's a not a day, hombre.");
 }
